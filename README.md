@@ -1,7 +1,7 @@
 # NLP list
-> my notes for practicing nlp libraries and frameworks,
-> inspired by Adrian Neagu
-> Currently, only JVM/Python based frameworks are studied
+> My notes for practicing nlp libraries and frameworks,
+> inspired by Adrian Neagu.
+> Currently, only JVM/Python based frameworks are being studied.
 
 ## General
 
