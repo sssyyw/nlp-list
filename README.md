@@ -11,7 +11,11 @@
 
 * FudanNLP
   * Old model, not actively developed for a couple of years
-
+* [ansj_seg](https://github.com/NLPchina/ansj_seg)
+  * Old model
+* [jieba](https://github.com/fxsjy/jieba)
+  * Python, Old model, only word segmentation.
+  
 ## Scala
 
 * Epic
