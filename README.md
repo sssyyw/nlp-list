@@ -10,7 +10,7 @@
 ## Chinese NLP
 
 * FudanNLP
- * Old model, not actively developed for a couple of years
+  * Old model, not actively developed for a couple of years
 
 ## Scala
 
